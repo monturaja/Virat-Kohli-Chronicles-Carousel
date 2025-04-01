@@ -1,2 +1,2 @@
-# Virat-Kohli-Chronicles-Carousel
-A visually captivating image carousel celebrating Virat Kohli's iconic moments and inspiring quotes. Featuring interactive navigation, sleek animations, and responsive design, this project offers an engaging experience for fans while showcasing the legacy of a cricketing legend.
+![Screenshot 2025-04-01 104534](https://github.com/user-attachments/assets/c1e384fb-3aa2-438e-909e-e595d9c4b987)
+![Screenshot 2025-04-01 104559](https://github.com/user-attachments/assets/814158df-3538-4774-9201-d3169449da82)
